@@ -7,8 +7,7 @@ BIDSKIT can be installed from GitHub source or from PyPI using the pip command
 Python dependencies are handled through setuptools (setup.py) during installation.
 
 #### dcm2niix
-*bidskit* also requires that *dcm2nixx* version 1.0.20181125 or later.
-See [Chris Rorden's GitHub repository](https://github.com/rordenlab/dcm2niix) for detailed installation instructions.
+*bidskit* also requires that *dcm2nixx* version 1.0.20181125 or later. The compiled executable of dcm2niix should be located within the same directory as bidskit (or calls to the program will not register) See [Chris Rorden's GitHub repository](https://github.com/rordenlab/dcm2niix) for detailed installation instructions.
 
 ### GitHub Installation
 
